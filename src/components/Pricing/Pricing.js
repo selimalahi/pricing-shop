@@ -8,7 +8,7 @@ const Pricing = () => {
             'Extra Feature',
             'unnecessary Feature',
             'will never use feature',
-            'Dudai Feature',
+            'Hudai Feature',
             'Ajaira feature'
         ] },
         { id: 2, name: 'medium', price: 9.99 },
