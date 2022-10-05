@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/NavBar/NavBar';
 import Pricing from './components/Pricing/Pricing';
+import AssignmentMarks from './components/AssignmentMarks/AssignmentMarks';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
      <p>This is paragraph tag</p>
 
      <Pricing></Pricing>
+     <AssignmentMarks></AssignmentMarks>
     </div>
   );
 }
